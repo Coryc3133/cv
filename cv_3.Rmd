@@ -1,0 +1,133 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv-latex.tex
+geometry: margin=.7in
+
+title: "CV"
+author: "Cory K Costello"
+
+fontawesome: yes
+email: "ccostell@uoregon.edu"
+github: "coryc3133"
+twitter: "@costellock"
+phone: "+1 941 518 9072"
+web: "costello.netlify.com"
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+urlcolor: blue
+---
+
+
+# Professional Appointments 
+
+**Graduate Employee** \hfill   2014 - Present  
+*University of Oregon, Eugene, OR*
+
+- Teaching Fellow, various roles (see Teaching Experience).
+- Research Fellow, *Big Data, Mental Health, and Personality on Twitter*, NIH (PI: Sanjay Srivastava).
+- Research Fellow, *Interpersonal Perception on Twitter*, NSF (PI: Sanjay Srivastava)
+
+**Graduate Research assistant** \hfill 2012 - 2014  
+*Wake Forest Univeristy, Winston-Salem, NC*
+
+- Responsibilities included experience cleaning and analyzing data, designing research materials, and communicating findings.
+
+**Teaching Assistant** \hfill 2012 - 2014  
+*Wake Forest Univeristy, Winston-Salem, NC*
+
+- Responsibilities included experience cleaning and analyzing data, designing research materials, and communicating findings.
+
+
+# Education
+
+**Ph.D. Psychology** \hfill 2020 (expected)  
+*Univeristy of Oregon*
+
+- Dissertation Committee: Sanjay Srivastava (Chair), Rob Chavez, Nick Allen, & Ryan Light.
+- Dissertation: Social Functions and Structures that Promote Accurate Interpersonal Perception in Online Social Networks. (in progress)
+
+**M.A. Psychology** \hfill 2014  
+*Wake Forest University*
+
+- Thesis Committee: Dustin Wood (Chair), R. Michael Furr, Lara Kammrath.
+- Thesis: Does the Motive Matter? The Role of Intended Effects in Characterizing Actions and Inferring Personality Traits.
+
+**B.A. Psychology** \hfill 2012  
+*New College of Florida (The Honors College of Florida)*
+
+- Thesis Committe: Steven Graham (Chair), Michelle Barton, Maribeth Clark
+- Thesis: The Effects of Attachment Priming on Anxiety Sensitivity and Drinking Motives.
+
+# Professional memberships
+- Society for Personality and Social Psychology
+- Association for Research on Personality
+- Society for the Improvement of Psychological Science
+
+# Honors & Awards
+
+Special Opportunities Travel Award, University of Oregon, Eugene, OR. \hfill Spring 2018    
+Tuition Scholarship, Wake Forest University, Winston-Salem, NC. \hfill 2012-2014    
+Summer Research Funding, Wake Forest University, Winston-Salem, NC \hfill Summer 2013     
+Alumni Association Grant, New College of Florida, Sarasota, FL. \hfill 2010-2011    
+New College Academic Scholarship, New College of Florida, Sarasota, FL. \hfill 2008-2012    
+Florida Bright Futures Scholarship, New College of Florida, Sarasota, FL. \hfill 2008-2012    
+First Generation College Student Grant, New College of Florida, Sarasota, FL. \hfill 2008-2012    
+
+# Conference Presentations (supervisees in *italics*)
+\setlength{\parindent}{-0.2in}
+\setlength{\leftskip}{0.2in}
+\setlength{\parskip}{8pt}
+\noindent
+
+**Costello, C. K.** & Srivastava, S. (2019). Longitudinal stability and change in the Big Six, emphasizing honesty/propriety, a maturity principle, the Cumulative Continuity Principle, and a socialization principle of maturity. In G. Saucier & S. Srivastava (Chairs), *Longitudinal Stability/Change in Personality Understood Broadly: Beyond the Big Five.* Symposium to be conducted at the 2019 Lifespan Social-Personality  Preconference, part of the 20th annual meeting of the Society of Personality and Social Psychology (Portland, OR).    
+
+**Costello, C. K.** & Srivastava, S. (2018). Consensus, Accuracy, and Consequences of Hearsay Reputations. In R. Rau (Chair), *Making good impressions: On the antecedents and consequences of peer reputations.* Symposium conducted at the 19th European Conference on Personality (Zadar, Croatia).    
+
+*Xu, C.*, **Costello, C. K.**, & Srivastava, S. (2018). *What did you say she was like? Features of Gossip Associated with Hearsay Accuracy and Consensus.* Poster presented at the 19th annual meeting of the Society of Personality and Social Psychology (Atlanta, GA).    
+
+**Costello, C. K.** & Srivastava S. (2017). Perceiving through the Grapevine. In **C. K. Costello** & S. Srivastava (Chairs), *What Do We Do with Interpersonal Knowledge? Social Functions of Interpersonal Perception, Gossip, & Reputation.* Symposium conducted at 2017 Biennial Meeting of the Association for Research in Personality (Sacramento, CA).     
+
+**Costello, C. K.** & Srivastava, S. (2017). *Perceiving through the Grapevine: Consensus and Accuracy of Hearsay Reputations.* Poster presented at the 18th annual meeting of the Society for Personality and Social Psychology (San Antonio, TX).    
+
+**Costello, C. K.** & Srivastava, S. (2016). *Traits, What Are They Good For? Functions and Affordances of Perceiving Big Five Personality Attributes.* Poster presented at the 17th annual meeting of the Society for Personality and Social Psychology (San Diego, CA).    
+
+**Costello, C. K.** & Wood, D. (2015). *Does the Motive Matter? The Role of Intended Effects in Characterizing Actions and Inferring Personality Traits.* Poster presented at the 16th annual meeting of the Society for Personality and Social Psychology (Long Beach, CA).    
+
+Wood, D., Tov, W. & **Costello, C. K.** (2015). *The strange inversion: Defining Big Five-relevant action descriptors simultaneously identifies important situational features.* Paper presented at the International Convention of Psychological Science (Amsterdam, Netherlands).    
+
+Wood, D., **Costello, C. K.**, & Tov, W. (2015). *Are we talking about the same thing here? Cross-cultural differences in the meaning of trait concepts.* Paper presented at the International Convention of Psychological Science (Amsterdam, Netherlands).    
+
+Wood, D., Tov, W., & **Costello, C. K.** (2014). Examining East-West Personality Differences Indirectly Through Action Scenarios. In G. Saucier (Chair), *Response profiles as indicators of cultural models, internalization, and normativity.* Symposium conducted at the 22nd annual congress of the International Association of Cross-Cultural Psychology (Reims, France).   
+
+**Costello, C. K.**, Wood, D., & Tov, W. (2014). *Actions are What They Do: Identifying Trait-Relevance through Action Effects.* Poster presented at the 15th annual meeting of the Society for Personality and Social Psychology (Austin, TX).    
+
+Anderson, R. A., **Costello, C. K.**, Helzer, E. G., Furr, R. M., & Fleeson, W. (2014). *Individual and situational predictors of helping: Results from a 10-week longitudinal study.* Talk presented at the Morality and Justice Preconference held at the annual meeting of the Society for Personality and Social Psychology (Austin, TX).     
+
+**Costello, C. K.** & Wood, D. (2013) *It's the Thought That Counts: The Differential Role of Intended and Unintended Effects in Characterizing Actions.* Poster presented at the 35th annual meeting of the Society of Southeastern Social psychologists (Augusta, GA).
+
+
+# Publications
+**Costello, C. K.,** Wood, D., & Tov, W. (2018). Examining East-West Personality Differences Indirectly Through Action Scenarios. *Journal of Cross-Cultural Psychology*, 49, 554-596. https://doi.org/10.1177/0022022118757914 
+
+Wood, D., Tov, W., & **Costello, C. K.** (2015). What a ____ Thing to Do! Formally Characterizing Actions by their Expected Effects, *Journal of Personality and Social Psychology*, 108, 953-976. http://dx.doi.org/10.1037/pspp0000030
+
+# Manuscripts in Progress
+
+**Costello, C. K.**, Srivastava, S., & Saucier, G. (2017). *Stability and Mean-Level Change in the Big Six: A Novel Test of the Maturity and Cumulative Continuity Principles.* Preprint available at https://psyarxiv.com/b36tv/
+
+**Costello, C. K.** & Srivastava, S. (2018). Perceiving through the Grapevine: Consensus and Accuracy of Hearsay Reputations. Manuscript in preparation.
+
+**Costello, C. K.**, Srivastava, S., Zalewski, M. (2018). Do You Feel Like whom You Follow? Predicting Individual Differences in Mental Health from Twitter users' followed accounts. Stage 1 Registered Report Manuscript in preperation.
+
+# Technical skills
+
+- **Programming:** Proficient in R, Git, and Markdown. Experience with Python & SQL.
+- **Statistical Modelling:** Proficient in Linear and Logistic Regression, Longitudinal Data Analysis, Multi-Level Modelling (MLM/HLM), Structural Equation Modelling, Supervised and Unsupervised Machine Learning Techniques, Natural Language Processing, and Social Network Analysis.
+- **Research Approaches:** Experimental, quasi-experimental, survey-based, and data scientific methods to draw inferences about the nature and perception of individual differences in behavior.
