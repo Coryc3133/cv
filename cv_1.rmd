@@ -28,7 +28,7 @@ urlcolor: blue
 
 - **Programming:** Proficient in R, Git, and Markdown. Experience with Python & SQL.
 - **Statistical Modelling:** Proficient in Linear and Logistic Regression, Longitudinal Data Analysis, Multi-Level Modelling (MLM/HLM), Structural Equation Modelling, Supervised and Unsupervised Machine Learning Techniques, Natural Language Processing, and Social Network Analysis.
-- **Research Approaches:** Experimental, quasi-experimental, survey-based, and data scientific methods to draw inferences about the nature and perception of individual differences in behavior.
+- **Research Approaches:** Experimental, quasi-experimental, survey-based, and data scientific methods. Causal inference in experimental and non-experimental designs.
 - **Managing** several simultaneous projects, including mentoring and managing small teams of undergraduate research assistants.
 
 # Experience 
@@ -49,7 +49,6 @@ urlcolor: blue
 **Ph.D. Psychology** \hfill 2020 (expected)  
 *Univeristy of Oregon*
 
-- Dissertation: Social Functions and Structures that Promote Accurate Interpersonal Perception in Online Social Networks. (in progress)
 
 **M.A. Psychology** \hfill 2014  
 *Wake Forest University*

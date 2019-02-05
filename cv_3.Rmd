@@ -57,7 +57,6 @@ urlcolor: blue
 *Univeristy of Oregon*
 
 - Dissertation Committee: Sanjay Srivastava (Chair), Rob Chavez, Nick Allen, & Ryan Light.
-- Dissertation: Social Functions and Structures that Promote Accurate Interpersonal Perception in Online Social Networks. (in progress)
 
 **M.A. Psychology** \hfill 2014  
 *Wake Forest University*
@@ -92,19 +91,23 @@ First Generation College Student Grant, New College of Florida, Sarasota, FL. \h
 \setlength{\parskip}{8pt}
 \noindent
 
+Thalmayer, A. G., Saucier, G., Srivastava, S., Flournoy, J. C., **Costello, C. K.** (2019). Ethics-Relevant Values in Adulthood: Longitudinal Findings from the Life and Time Study. *In Press at Journal of Personality.* https://doi.org/10.1111/jopy.12462
+
 **Costello, C. K.,** Wood, D., & Tov, W. (2018). Examining East-West Personality Differences Indirectly Through Action Scenarios. *Journal of Cross-Cultural Psychology*, 49, 554-596. https://doi.org/10.1177/0022022118757914 
 
 Wood, D., Tov, W., & **Costello, C. K.** (2015). What a ____ Thing to Do! Formally Characterizing Actions by their Expected Effects, *Journal of Personality and Social Psychology*, 108, 953-976. http://dx.doi.org/10.1037/pspp0000030
 
-# Manuscripts in Progress
+# Manuscripts in Progress (incl. under review)
+
+**Costello, C. K.**, Srivastava, S., Rejaie, R, & Zalewski, M. (2018). Do you feel like who you follow? Predicting Individual Differences in Mental Health from Twitter Friends. Manuscript in Preparation.
 
 **Costello, C. K.** & Srivastava, S. (2018). Perceiving through the Grapevine: Consensus and Accuracy of Hearsay Reputations. Manuscript in preparation.
 
 **Costello, C. K.**, Srivastava, S., & Saucier, G. (2017). *Stability and Mean-Level Change in the Big Six: A Novel Test of the Maturity and Cumulative Continuity Principles.* Preprint available at https://psyarxiv.com/b36tv/
 
-# Conference Presentations (supervisees in *italics*)
+# Selected Conference Presentations (supervisees in *italics*)
 
-**Costello, C. K.** & Srivastava, S. (2019). Longitudinal stability and change in the Big Six, emphasizing honesty/propriety, a maturity principle, the Cumulative Continuity Principle, and a socialization principle of maturity. In G. Saucier & S. Srivastava (Chairs), *Longitudinal Stability/Change in Personality Understood Broadly: Beyond the Big Five.* Symposium to be conducted at the 2019 Lifespan Social-Personality  Preconference, part of the 20th annual meeting of the Society of Personality and Social Psychology (Portland, OR).    
+**Costello, C. K.** & Srivastava, S. (2019). Longitudinal stability and change in the Big Six. In G. Saucier & S. Srivastava (Chairs), *Longitudinal Stability/Change in Personality Understood Broadly: Beyond the Big Five.* Symposium to be conducted at the 2019 Lifespan Social-Personality  Preconference, part of the 20th annual meeting of the Society of Personality and Social Psychology (Portland, OR).    
 
 **Costello, C. K.** & Srivastava, S. (2018). Consensus, Accuracy, and Consequences of Hearsay Reputations. In R. Rau (Chair), *Making good impressions: On the antecedents and consequences of peer reputations.* Symposium conducted at the 19th European Conference on Personality (Zadar, Croatia).    
 
@@ -118,15 +121,7 @@ Wood, D., Tov, W., & **Costello, C. K.** (2015). What a ____ Thing to Do! Formal
 
 **Costello, C. K.** & Wood, D. (2015). *Does the Motive Matter? The Role of Intended Effects in Characterizing Actions and Inferring Personality Traits.* Poster presented at the 16th annual meeting of the Society for Personality and Social Psychology (Long Beach, CA).    
 
-Wood, D., Tov, W. & **Costello, C. K.** (2015). *The strange inversion: Defining Big Five-relevant action descriptors simultaneously identifies important situational features.* Paper presented at the International Convention of Psychological Science (Amsterdam, Netherlands).    
-
-Wood, D., **Costello, C. K.**, & Tov, W. (2015). *Are we talking about the same thing here? Cross-cultural differences in the meaning of trait concepts.* Paper presented at the International Convention of Psychological Science (Amsterdam, Netherlands).    
-
-Wood, D., Tov, W., & **Costello, C. K.** (2014). Examining East-West Personality Differences Indirectly Through Action Scenarios. In G. Saucier (Chair), *Response profiles as indicators of cultural models, internalization, and normativity.* Symposium conducted at the 22nd annual congress of the International Association of Cross-Cultural Psychology (Reims, France).   
-
 **Costello, C. K.**, Wood, D., & Tov, W. (2014). *Actions are What They Do: Identifying Trait-Relevance through Action Effects.* Poster presented at the 15th annual meeting of the Society for Personality and Social Psychology (Austin, TX).    
-
-Anderson, R. A., **Costello, C. K.**, Helzer, E. G., Furr, R. M., & Fleeson, W. (2014). *Individual and situational predictors of helping: Results from a 10-week longitudinal study.* Talk presented at the Morality and Justice Preconference held at the annual meeting of the Society for Personality and Social Psychology (Austin, TX).     
 
 **Costello, C. K.** & Wood, D. (2013) *It's the Thought That Counts: The Differential Role of Intended and Unintended Effects in Characterizing Actions.* Poster presented at the 35th annual meeting of the Society of Southeastern Social psychologists (Augusta, GA).
 
@@ -134,4 +129,4 @@ Anderson, R. A., **Costello, C. K.**, Helzer, E. G., Furr, R. M., & Fleeson, W. 
 
 - **Programming:** Proficient in R, Git, and Markdown. Experience with Python & SQL.
 - **Statistical Modelling:** Proficient in Linear and Logistic Regression, Longitudinal Data Analysis, Multi-Level Modelling (MLM/HLM), Structural Equation Modelling, Supervised and Unsupervised Machine Learning Techniques, Natural Language Processing, and Social Network Analysis.
-- **Research Approaches:** Experimental, quasi-experimental, survey-based, and data scientific methods to draw inferences about the nature and perception of individual differences in behavior.
+- **Research Approaches:** Experimental, quasi-experimental, survey-based, and data scientific methods. Causal inference in experimental and non-experimental designs.
