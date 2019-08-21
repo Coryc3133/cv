@@ -12,7 +12,6 @@ fontawesome: yes
 email: "ccostell@uoregon.edu"
 github: "coryc3133"
 twitter: "@costellock"
-phone: "+1 941 518 9072"
 web: "costello.netlify.com"
 updated: no
 
@@ -26,18 +25,28 @@ urlcolor: blue
 
 # Relevant skills
 
-- **Programming:** Proficient in R, Git, and Markdown. Experience with Python & SQL.
-- **Statistical Modelling:** Proficient in Linear and Logistic Regression, Longitudinal Data Analysis, Multi-Level Modelling (MLM/HLM), Structural Equation Modelling, Supervised and Unsupervised Machine Learning Techniques, Natural Language Processing, and Social Network Analysis.
-- **Research Approaches:** Experimental, quasi-experimental, survey-based, and data scientific methods. Causal inference in experimental and non-experimental designs.
-- **Managing** several simultaneous projects, including mentoring and managing small teams of undergraduate research assistants.
+- **Programming Languages:** 
+  - Expertise in R (incl. tidyverse, ggplot2, lme4, lavaan, caret) and Markdown. 
+  - Proficiency in Git and Python. 
+  - Experience with SQL, HTML, CSS.
+- **Data Science:** 
+  - Expertise in creating pipelines for cleaning, tidying, reshaping, visualizing, and reporting data.
+  - Proficiency in webscraping & accessing data from APIs.
+  - Experience working with large, complex datasets.
+- **Statistical Modelling:** 
+  - Expertise in Linear and Logistic Regression, Longitudinal Data Analysis, MLM/HLM, SEM, Supervised and Unsupervised Machine Learning Techniques, and Social Network Analysis.
+  - Proficiency in Automated Text Analysis & Natural Language Processing.
+  - Experience with Deep Learning with Keras.
+- **Research Approaches** Expertise in experimental, quasi-experimental, survey-based, and data scientific methods. Causal inference in experimental and non-experimental designs.
+- **Managing** several simultaneous projects and supervising small teams of research assistants.   
 
 # Experience 
 
 **Graduate Employee** \hfill   2014 - Present  
 *University of Oregon, Eugene, OR*
 
-- Teaching Fellow, various roles, including the Lab Instructor for Graduate Statistics and a facilitator for our *R Bootcamp* for incoming graduate students. Teaching responsibilities include explaining advanced topics in statistics and statistical programming to students with different levels of expertise.
-- Graduate Research Fellow on two nationally-funded (NIH & NSF) grants for studying mental health, personality, and reputation in Online Social Networks. Combines experimental, survey-based, and data scientific approaches to better understand what we can learn about people from digital records of their online behavior.
+- Teaching Fellow, various roles, including instructing Graduate Statistics and our *R Bootcamp* for incoming graduate students. Teaching responsibilities include explaining advanced topics in statistics and statistical programming to students with different levels of expertise.
+- Graduate Research Fellow on NIH & NSF funded projects investigating mental health, personality, and reputation in Online Social Networks. Combines experimental, survey-based, and data scientific methods to uncover how psychological characteristics are reflected in digital footprints.
 
 **Graduate Research assistant** \hfill 2012 - 2014  
 *Wake Forest Univeristy, Winston-Salem, NC*
@@ -51,15 +60,10 @@ urlcolor: blue
 
 
 **M.A. Psychology** \hfill 2014  
-*Wake Forest University*
-
-- Thesis: Does the Motive Matter? The Role of Intended Effects in Characterizing Actions and Inferring Personality Traits.
+*Wake Forest University*   
 
 **B.A. Psychology** \hfill 2012  
-*New College of Florida (The Honors College of Florida)*
-
-- Thesis: The Effects of Attachment Priming on Anxiety Sensitivity and Drinking Motives.
-
+*New College of Florida (The Honors College of Florida)*    
 
 \centering 
 
