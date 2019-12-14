@@ -67,4 +67,5 @@ urlcolor: blue
 
 \centering 
 
-[*More detailed 3-page & 5-page CVs are available at my personal website.*](https://costello.netlify.com/#cv)
+
+[*see 5-page CV for more detail*](https://costello.netlify.com/#cv)

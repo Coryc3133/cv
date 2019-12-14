@@ -52,6 +52,7 @@ urlcolor: blue
 *Univeristy of Oregon*
 
 - Dissertation Committee: Sanjay Srivastava (Chair), Rob Chavez, Nick Allen, & Ryan Light.
+- Dissertation: Human and Computerized Personality Inferences from Digital Footprints on Twitter
 
 **M.A. Psychology** \hfill 2014  
 *Wake Forest University*
@@ -82,11 +83,15 @@ Thalmayer, A. G., Saucier, G., Srivastava, S., Flournoy, J. C., **Costello, C. K
 
 Wood, D., Tov, W., & **Costello, C. K.** (2015). What a ____ Thing to Do! Formally Characterizing Actions by their Expected Effects, *Journal of Personality and Social Psychology*, 108, 953-976. http://dx.doi.org/10.1037/pspp0000030
 
-# Manuscripts in Progress (incl. under review)
+# Preprints & Works in Progress (incl. under review)
 
-**Costello, C. K.**, Srivastava, S., Rejaie, R, & Zalewski, M. (2019). *Do you feel like who you follow? Predicting Individual Differences in Mental Health from Twitter Friends.* Revise and resubmit at Collabra: Psychology.
+**Costello, C. K.**, Srivastava, S., Rejaie, R, & Zalewski, M. (2019). *Do the Accounts We Follow Reflect How We Feel? Predicting Individual Differences in Mental Health from Twitter Friends.* Stage 1 RR in principle acceptance at Collabra: Psychology.
 
-**Costello, C. K.** & Srivastava, S. (2019). *Perceiving through the Grapevine: Consensus and Accuracy of Hearsay Reputations.* Under review at Journal of Personality and Social Psychology.
+**Costello, C. K.** & Srivastava, S. (2019). *Perceiving Personality Through the Grapevine: A Network Approach to Reputations.* Revise and Resubmit at Journal of Personality and Social Psychology.
+
+Hughes, B. T., **Costello, C. K.**, Pearman, J., Razavi, P., Bedford-Petersen, C., Ludwig, R. M., Srivastava, S. (2019). *The Big Five Across Socioeconomic Status: Measurement Invariance, Relationships, and Age Trends.* Revise and Resubmit at Collabra: Psychology.
+
+Stone, E. R., Luu, j., **Costello, C. K.** (2019). *Automated Calibration Training for Forecasters.* Revisisions submitted to Journal of Behavioral Decision Making.
 
 **Costello, C. K.**, Srivastava, S., & Saucier, G. (2017). *Stability and Mean-Level Change in the Big Six: A Novel Test of the Maturity and Cumulative Continuity Principles.* Preprint available at https://psyarxiv.com/b36tv/
 
@@ -128,23 +133,14 @@ Wood, D., Tov, W., & **Costello, C. K.** (2015). What a ____ Thing to Do! Formal
   - Experience with Deep Learning with Keras.
 - **Research Approaches:** Expertise in experimental, quasi-experimental, survey-based, and data scientific methods. Causal inference in experimental and non-experimental designs.
 
-# Selected Courses taught 
+# Selected Courses Taught 
 
-## University of Oregon
+Graduate Data Analysis I, II, III, Lab Instructor \hfill University of Oregon, 2015-2019   
 
-Data Analysis I \hfill Fall, 2015, 2017    
+R bootcamp for Incoming Graduate Students, Instructor \hfill University of Oregon, Summer 2019   
 
-Data Analysis II \hfill Winter, 2016, 2019   
-
-Data Analysis III \hfill Spring, 2016, 2019
-
-Personality \hfill Spring, 2019  
-
-Personality \hfill Summer, 2015    
-
-Thinking \hfill Fall, 2014; Spring, 2015    
-
-Psychology & Law \hfill Winter, 2015    
+Personality, Co-Instructor \hfill University of Oregon, Summer, 2015    
+ 
 
 \centering 
 
