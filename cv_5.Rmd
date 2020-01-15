@@ -85,13 +85,13 @@ Wood, D., Tov, W., & **Costello, C. K.** (2015). What a ____ Thing to Do! Formal
 
 # Preprints & Works in Progress (incl. under review)
 
-**Costello, C. K.**, Srivastava, S., Rejaie, R, & Zalewski, M. (2019). *Do the Accounts We Follow Reflect How We Feel? Predicting Individual Differences in Mental Health from Twitter Friends.* Stage 1 RR in principle acceptance at Collabra: Psychology.
+**Costello, C. K.**, Srivastava, S., Rejaie, R, & Zalewski, M. (2019). *Do the Accounts We Follow Reflect How We Feel? Predicting Individual Differences in Mental Health from Twitter Friends.* Stage 1 RR in principle acceptance at Collabra: Psychology. Preprint available at https://costello.netlify.com/files/MHTwitterFriends_S1RR_revision1.pdf
 
-**Costello, C. K.** & Srivastava, S. (2019). *Perceiving Personality Through the Grapevine: A Network Approach to Reputations.* Revise and Resubmit at Journal of Personality and Social Psychology.
+**Costello, C. K.** & Srivastava, S. (2019). *Perceiving Personality Through the Grapevine: A Network Approach to Reputations.* Revise and Resubmit at Journal of Personality and Social Psychology. Preprint available at https://costello.netlify.com/files/Perceiving_personality_through_grapevine_08.09.2019.pdf.
 
-Hughes, B. T., **Costello, C. K.**, Pearman, J., Razavi, P., Bedford-Petersen, C., Ludwig, R. M., Srivastava, S. (2019). *The Big Five Across Socioeconomic Status: Measurement Invariance, Relationships, and Age Trends.* Revise and Resubmit at Collabra: Psychology.
+Hughes, B. T., **Costello, C. K.**, Pearman, J., Razavi, P., Bedford-Petersen, C., Ludwig, R. M., Srivastava, S. (2019). *The Big Five Across Socioeconomic Status: Measurement Invariance, Relationships, and Age Trends.* Stage 1 RR in principle acceptance at at Collabra: Psychology.
 
-Stone, E. R., Luu, j., **Costello, C. K.** (2019). *Automated Calibration Training for Forecasters.* Revisisions submitted to Journal of Behavioral Decision Making.
+Stone, E. R., Luu, j., **Costello, C. K.** (2019). *Automated Calibration Training for Forecasters.* Revise and Resubmit at Journal of Behavioral Decision Making.
 
 **Costello, C. K.**, Srivastava, S., & Saucier, G. (2017). *Stability and Mean-Level Change in the Big Six: A Novel Test of the Maturity and Cumulative Continuity Principles.* Preprint available at https://psyarxiv.com/b36tv/
 
@@ -167,7 +167,7 @@ Data Analysis I \hfill Fall, 2015, 2017
  - Graduate Level Course covering univariate statistics. Basic Logic of Frequentist Statistics, NHST, comparing means (*t* tests & ANOVA), and correlation.    
  - Instruction included reviewing materials from lecture & analyzing data in R. Created Lab Materials (in R/Rmarkdown) walking through data analysis in R.
 
-Data Analysis II \hfill Winter, 2016, 2019   
+Data Analysis II \hfill Winter, 2016, 2019, 2020   
  - Lab Instructor.    
  - Graduate Level Course covering basic multivariate statistics. More advanced regression models, complex designs (repeated measures, nested designs, etc.), and continuous and factorial interactions.    
  - Instruction included reviewing materials from lecture & analyzing data in R. Created Lab Materials (in R/Rmarkdown) walking through data analysis in R.     
@@ -178,22 +178,22 @@ Data Analysis III \hfill Spring, 2016, 2019
  - Instruction included reviewing materials from lecture & analyzing data in R. Created Lab Materials (in R/Rmarkdown) walking through data analysis in R. Provided several guest lectures.   
 
 Personality \hfill Spring, 2019  
- - TA
+ - Teaching Assistant   
  - Broad survey on personality science for mid-level undergraduates.    
  - Primarily graded assignments. Delivered guest lecture on personality and culture.
  
 Personality \hfill Summer, 2015    
- - Co-Instructor
+ - Co-Instructor    
 - Upper-level undergraduate course on personality science, covering personality assesment, development, interpersonal perception, and the person-situation debate.    
  - Designed course, prepared lectures and assignments, and graded assignments.    
  
 Thinking \hfill Fall, 2014; Spring, 2015    
- - Teaching Assistant    
+ - Teaching Assistant     
  - Survey on cognitive psychology and its applications.    
  - Prepared assignments, graded assignments, maintained online course materials.    
  
 Psychology & Law \hfill Winter, 2015    
- - Teaching Assistant    
+ - Teaching Assistant     
  - Survey on psychology's application to the legal system.    
  - Graded assignments and maintained online course materials.   
  
@@ -204,7 +204,7 @@ Social Science Research Lab \hfill Spring, 2012
  - Assisted students completing undergraduate theses and other avanced projects with planning and executing data analysis (using SAS).    
 
 Lab in Social/Personality Psychology \hfill Sping, 2012    
- - Teaching Assistant
+ - Teaching Assistant   
  - Undergraduate-level course on research methods and data analysis in social-personality psychology.
  - Assisted with students' research projects (including data analysis) and course administration.
 
@@ -212,6 +212,7 @@ Lab in Social/Personality Psychology \hfill Sping, 2012
 
 Xu, Chenle. *Psychology Honors Student*, University of Oregon. \hfill A/Y 2016-2017    
 - Honor's thesis: *What did you say she was like? Features of gossip associated with hearsay accuracy and consensus.*    
+- Currently earning PhD in Clinical Psychologt at University of North Texas
 
 Davis, K. *McNair Scholar*, University of Oregon. \hfill A/Y 2018-2019    
 - McNair Project: *Heard it Through the Grapevine: Does Physical Attractiveness Affect
